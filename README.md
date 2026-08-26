@@ -164,3 +164,87 @@ A web-based developer dashboard project built while strengthening my frontend de
        Embeddings            Databases            Networking
        RAG                   Architecture         Cloud
        AI Reasoning         Distributed Systems   Infrastructure
+```
+My current learning philosophy is simple:
+
+Learn the concept → build something → break it → understand the failure → rebuild it better.
+
+📚 Learning Journey
+
+I'm deliberately building breadth while strengthening my fundamentals.
+
+🧠 Computer Science
+Data Structures & Algorithms
+Object-Oriented Programming
+Database Systems
+Automata Theory
+Software Architecture
+API Design
+Computer Networks
+🤖 Artificial Intelligence
+Prompt Engineering
+LLM Integration
+Structured Outputs
+Embeddings
+Semantic Search
+Retrieval Pipelines
+AI-Assisted Development
+🌐 Infrastructure
+UNIX/Linux
+Networking
+Routing
+Cloud Computing
+APIs
+Distributed Systems Fundamentals
+🏆 Learning & Programs
+
+Some of the programs and technical communities that have contributed to my journey:
+
+IBM SkillsBuild
+Power Learn Project
+Internet Society
+eMobilis
+TechCrush
+OctoPrep
+Fortinet Training Institute
+Microsoft Azure Learning Programs
+
+I'm less interested in collecting certificates and more interested in what I can actually build with what I learned.
+
+📊 GitHub Activity
+
+🐍 Contribution Journey
+
+One commit at a time.
+
+⚡ A Little More About Me
+🎓 Computer Science student
+🇰🇪 Building from Kenya
+🧠 Curious by default
+📚 Slightly obsessed with learning
+🤖 AI enthusiast
+⚙️ Systems nerd in progress
+🌐 Backend & infrastructure curious
+🚀 Builder before collector
+
+And one principle I'm trying to live by:
+
+Don't aim to know everything. Aim to understand whatever you choose to learn deeply.
+
+🌱 What's Next?
+
+I'm working toward becoming the kind of engineer who can move comfortably from:
+
+problem → architecture → code → database → API → deployment → debugging
+
+rather than someone who only knows how to make the UI look pretty.
+
+The long game is technical depth, strong fundamentals, meaningful projects, and becoming genuinely useful.
+
+👋 Thanks for stopping by.
+
+If you're building something interesting, let's build.
+
+
+
+
