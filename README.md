@@ -322,6 +322,7 @@ I'm less interested in collecting certificates and more interested in **what I c
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mason-hun/Mason-hun/main/profile/stats.svg" height="180" alt="GitHub Stats">
   <img src="./profile/top-langs.svg" height="180" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mason-hun&theme=transparent&hide_border=true" height="180" alt="GitHub Streak">
 </p>
 
 
