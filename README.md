@@ -316,17 +316,14 @@ I'm less interested in collecting certificates and more interested in **what I c
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mason-hun&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mason-hun&theme=transparent&hide_border=true" height="170" alt="GitHub Streak">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats">
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mason-hun&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages">
-</p>
 
 ---
 
